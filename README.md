@@ -2,4 +2,4 @@
 
 | Project | Tool | Description | Repository |
 |----------|------|--------------|-------------|
-| **Zara Sales Analysis** | MySQL | Business insights and queries from Zara's dataset.
+| **Zara Sales Analysis** | MySQL | Business insights and queries from Zara's dataset([View Repo](https://github.com/username/zara-sales-analysis) |) |
