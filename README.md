@@ -3,3 +3,4 @@
 | Project | Tool | Description | Repository |
 |----------|------|--------------|-------------|
 | **Zara Sales Analysis** | MySQL | Business insights and queries from Zara's dataset
+(View Repo) https://github.com/FarisDataAnalysts/zara-sales-analysis
